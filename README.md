@@ -15,7 +15,7 @@
 On the command prompt run the following commands
 
 ```sh
-$ git clone https://github.com/shivrajkumar/ReactNative-Redux-TypeScript-Boilerplate.git
+$ git clone https://github.com/devvrat-sharma/ReactNativeTypesScriptRedux.git
 
 $ cd ReactNative-Redux-TypeScript-Boilerplate/
 
